@@ -1,0 +1,13 @@
+{
+    "name": "Reviitale",
+    "short_name": "Reviitale",
+    "icons": [
+      { "src": "/RVTL-Android-Chrome-Light-192.png", "sizes": "192x192", "type": "image/png" },
+      { "src": "/RVTL-Android-Chrome-Light-512.png", "sizes": "512x512", "type": "image/png" },
+      { "src": "/RVTL-Maskable-Light-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ],
+    "theme_color": "#0F172A",
+    "background_color": "#0F172A",
+    "display": "standalone"
+  }
+  
